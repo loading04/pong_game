@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://github.com/loading04/pong_game">
+    <img src="images/pong.png" alt="Logo" width="600" height="600">
+  </a>
+ </div>
 
 ## About The Project
 
